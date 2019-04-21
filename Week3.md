@@ -37,4 +37,4 @@ pod install
 
 # Share
 
-
+[Flutter混合开发iOS集成填坑](https://www.jianshu.com/p/1852f9ea29fe)
